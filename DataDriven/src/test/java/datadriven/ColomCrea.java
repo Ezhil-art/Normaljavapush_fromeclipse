@@ -30,6 +30,7 @@ public class ColomCrea {
 		w.write(st);
 		System.out.println("Colomn created");
 		System.out.println("Colomn created");
+		System.out.println("Colomn created");
 		
 		
 		
@@ -45,4 +46,5 @@ public class ColomCrea {
 	}
 
 }
+
 
