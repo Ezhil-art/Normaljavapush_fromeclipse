@@ -29,6 +29,7 @@ public class ColomCrea {
 		FileOutputStream st = new FileOutputStream(loc);
 		w.write(st);
 		System.out.println("Colomn created");
+		System.out.println("Colomn created");
 		
 		
 		
@@ -44,3 +45,4 @@ public class ColomCrea {
 	}
 
 }
+
